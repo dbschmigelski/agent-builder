@@ -40,7 +40,7 @@ An interactive Strands agent toolkit designed to help you build, test, and exten
 # Install
 pipx install strands-agents-builder
 
-# Run interactive mode for agent development
+# Run interactive mode for agent development <<<
 strands
 
 # Build a custom tool and use it immediately
